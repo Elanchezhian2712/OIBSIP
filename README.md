@@ -1,2 +1,2 @@
 # OIBSIP
-WWeb Development and Designing Intern at Oasis Infobyte
+Web Development and Designing Intern at Oasis Infobyte
